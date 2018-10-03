@@ -1,6 +1,10 @@
 # Important-links-for-android
 Links for Android developer for practice and learning
 
+## Country List
+```
+https://restcountries.eu/
+```
 ## REST web-service to get a list of all States and territories of a country
 
 1.  List All States
@@ -26,7 +30,7 @@ Links for Android developer for practice and learning
       OR
       
     http://services.groupkt.com/state/search/IND?text=pradesh  
-```
+```   
    
 ## JsonPlaceholder
 ```
